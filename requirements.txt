@@ -1,5 +1,3 @@
-# Python dependencies 
-
 detect-delimiter
 nuitka
 openpyxl
